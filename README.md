@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RolfAAA
 - 👀 I’m interested in programming in Python,R, SQL and VBA.
-- Goal for 2026 is at least one upload for each day. 
+- Goal for 2026 is at least upload in 350 of the days. 
 
 <!---
 RolfAAA/RolfAAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
